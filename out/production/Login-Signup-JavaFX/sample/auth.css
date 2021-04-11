@@ -1,0 +1,64 @@
+/*
+    Created on : Feb 22, 2020, 2:39:34 PM
+    Author     : Admin
+*/
+.parent{
+    -fx-background-color: transparent;
+}
+.pane{
+    -fx-background-color: #a89868;
+}
+.trans-btn-white-border{
+    -fx-background-color: transparent;
+    -fx-background-radius: 5px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-border-width: 1px;
+    -fx-text-fill: whitesmoke;
+}
+.white-pane{
+    -fx-background-color: #ffffff;
+}
+.primary-panel{
+    -fx-background-color: #383838;
+    -fx-padding: 16px;
+}
+.tf_box{
+    -fx-background-color: transparent;
+    -fx-border-color: #DEDEE4;
+    -fx-border-width: 0px 0px 1px 0px;
+}
+.tf{
+    -fx-background-color: transparent;
+}
+.primary-btn{
+    -fx-background-color: #a89868;
+    -fx-background-radius: 4px;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.primary-tf{
+    -fx-padding: 8px;
+    -fx-font-size: 14px;
+    -fx-prompt-text-fill: #a8986877;
+    -fx-text-fill: #a89868;
+}
+
+#toggle-btn{
+    -fx-text-fill: #a89868;
+    -fx-font-size: 14px;
+}
+
+#selected-register-tab{
+    -fx-border-width: 2px;
+    -fx-border-radius: 4;
+    -fx-border-color: #a89868;
+}
+#selected-register-tab:hover{
+    -fx-background-color: #a8986855;
+}
+#register-tab:hover{
+    -fx-background-color: #a8986855;
+}
