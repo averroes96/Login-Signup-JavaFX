@@ -7,3 +7,7 @@ A simple Login/Signup JavaFX - ready to use - template
 ### Signup view
 ![](screenshots/signup.png)
 
+### Libraries
+* JFoenix
+* AnimateFX
+
